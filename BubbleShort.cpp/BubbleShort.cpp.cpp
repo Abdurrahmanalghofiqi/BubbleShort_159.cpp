@@ -17,4 +17,4 @@ void input(){ //Procedure untuk input
 		}
 	}
 	cout << endl; //output baris kosong 
-	cout << "Masukkan elemen array"
+	cout << "Masukkan elemen array" 
